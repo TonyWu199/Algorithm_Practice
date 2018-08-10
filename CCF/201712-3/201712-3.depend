@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1533726767 source:d:\—ßœ∞\ª˙ ‘À„∑®—µ¡∑\201712-3\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<string.h>
+	<sstream>
+	<map>
+	<ctype.h>
+	<algorithm>
+
